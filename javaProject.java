@@ -2,7 +2,7 @@ package javaProjects;
 
 public class javaProject{
 
-public static void maing(String[] args){
+public static void main(String[] args){
 
 }
 
